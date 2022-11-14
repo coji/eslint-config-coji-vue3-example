@@ -1,6 +1,6 @@
 {
   "name": "@coji/eslint-config-vue3-example",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "publishConfig": {
     "access": "public"

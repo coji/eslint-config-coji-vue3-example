@@ -38,7 +38,6 @@ module.exports = {
     ],
     "@typescript-eslint/ban-ts-comment": "off",
     "@typescript-eslint/no-unused-vars": "off",
-    "@typescript-eslint/no-floating-promises": "error",
     "import/no-unresolved": "off",
     "unused-imports/no-unused-imports": "error",
     "unused-imports/no-unused-vars": [
